@@ -16,7 +16,7 @@ This program compares the unique words in two text files using Python's set oper
 1. Place two text files named `Test.txt` and `Test_2.txt` in the same directory as the script.
 2. Run the program:
    ```bash
-   python word_comparison.py
+   python Compare_files.py
 The program will output:
 Total unique words.
 Common words.
